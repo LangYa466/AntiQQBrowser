@@ -1,7 +1,7 @@
 # AntiQQBrowser
 基于PHP编写的 简单QQ防红
 <p>
-    <img width="200" src="https://github.com/Nel1yMinecraft/AntiQQBrowser/QQ.jpg">
+    <img width="200" src="https://github.com/Nel1yMinecraft/AntiQQBrowser/blob/main/QQ.jpg?raw=true">
 </p>
 
 例如这是你的PHP代码
